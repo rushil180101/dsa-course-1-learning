@@ -2,3 +2,4 @@
 *.txt
 cpp_file_template.cpp
 .vscode
+temp*.cpp
